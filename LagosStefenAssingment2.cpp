@@ -10,6 +10,7 @@
 #include <iostream>
 using namespace std;
 
+/*
 int main()
 {
 	double x; //for variable x, input is 0.5
@@ -30,6 +31,7 @@ int main()
 	return 0;
 }
 
+/*
 //test changes
 /*
 Question 2.2
